@@ -1,0 +1,2 @@
+In Python you can deal with millions of number and data
+In Python you can write some games to play
